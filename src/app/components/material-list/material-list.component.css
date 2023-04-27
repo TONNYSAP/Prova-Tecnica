@@ -1,0 +1,49 @@
+#feeds>.feed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#feeds {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    bottom: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#feeds>p,h3,h5 {
+    margin-left: 15px;
+}
+
+#feeds>.feed>.card {
+    display: inline;
+    width: 180px;
+    height: 150px;
+    border-radius: 8px;
+    margin-right: 12px;
+    margin-bottom: 15px;
+}
+
+#feeds>.feed>.card>a>.image {
+    width: 120px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+}
+
+#feeds>.feed>.card>a {
+    text-decoration: none;
+    color: #292929;
+}
+
+#feeds>.feed>.card>a>h6 {
+    text-align: center;
+    margin-top: 15px;
+}

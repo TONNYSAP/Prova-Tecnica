@@ -1,0 +1,16 @@
+<body>
+    <div id="login">
+        <form action="" >
+
+            <img id="img-logo" src="../../../assets/img/logo-trakto.png" alt="">
+            
+            <h3>Olá, faça login em sua conta.</h3>
+            <label id="label_email" for="email">E-mail</label><br>
+            <input type="email" name="email" id="email" placeholder="darthvader@gmail.com" [(ngModel)]="email" ><br><br>
+            <label id="label_password" for="password">Senha</label><br>
+            <input type="password" name="password" id="password" placeholder="darthvader666" [(ngModel)]="senha" ><br><br>
+               
+        </form>
+            <button type="button" (click)="Entrar()"><img id="icon-round" src="../../../assets/img/icon-round.png" alt=""> Entrando...</button>
+    </div>
+</body>

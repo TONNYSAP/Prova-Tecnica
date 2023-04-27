@@ -1,0 +1,12 @@
+:root {
+    --background-login: #EFF2F9;
+    --background-inicial: #1D1B1B;
+    --background-md: #EFF2F9;
+    --background-todos: #EFF2F9;
+}
+
+body {
+    background-color: var(--background-login);
+
+    height: 800px;
+}

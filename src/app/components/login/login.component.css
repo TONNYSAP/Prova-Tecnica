@@ -1,0 +1,131 @@
+body {
+    background-color: var(--background-login);
+    
+    width: 100%;
+    height: 800px;
+}
+
+#login {
+    /* border: 1px solid red; */
+    columns: 1;
+    /* position: relative; */
+    width: 300px;
+    height: 400px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+#img-logo {
+    /* position: absolute; */
+    width: 119.91px;
+    height: 30px;
+    left: 810px;
+    top: calc(50% - 30px/2 - 158px);
+
+    margin-bottom: 40px;
+}
+
+h3 {
+    margin-bottom: 25px;
+    /* position: absolute; */
+    height: 23px;
+    left: 42.19%;
+    right: 44.27%;
+    top: calc(50% - 23px/2 - 91.5px);
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #04183E;
+}
+
+#label_email {
+    /* position: absolute; */
+    width: 34px;
+    height: 14px;
+    left: 0px;
+    top: -18px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #0079FF;
+}
+
+#label_password {
+    /* position: absolute; */
+    width: 34px;
+    height: 14px;
+    left: 0px;
+    top: -18px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #04183E;
+}
+
+input, button {
+    width: 100%;
+}
+
+button {
+    display: inline;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    gap: 8px;
+
+    /* position: absolute; */
+    width: 300px;
+    height: 48px;
+    left: 810px;
+    top: 664px;
+
+    background: #1DC763;
+    border-radius: 4px;
+
+    color: #FFFFFF;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    transition: .3s;
+}
+
+button:hover {
+    background: #36e980;
+    border: 2px solid white;
+
+    font-weight: bold;
+
+    color: #FFFFFF;
+}
+
+#icon-round {
+    width: 15px;
+    margin-right: 8px;
+}
+
+#circle {
+    transform: translate(-50%, -50%);
+    
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px 10px 0 0;
+}
