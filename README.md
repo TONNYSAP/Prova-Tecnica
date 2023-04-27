@@ -29,7 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## login
-<img src="https://github.com/TONNYSAP/Prova-Tecnica/main/src/assets/img/videos-img/inicio.jpg" alt="login" />
+<img src="https://github.com/TONNYSAP/Prova-Tecnica/tree/main/src/assets/img/videos-img/inicio.jpg" alt="login" />
 ## abertura
 <img src="https://github.com/TONNYSAP/Prova-Tecnica/tree/main/src/assets/img/videos-img/start.jpg" alt="start" />
 ## material didático
