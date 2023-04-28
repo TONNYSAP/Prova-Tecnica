@@ -31,8 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## login
 <img src="https://github.com/TONNYSAP/Prova-Tecnica/blob/main/src/assets/img/videos-img/inicio.jpg" alt="login" />
 ## abertura
-<img src="https://github.com/TONNYSAP/Prova-Tecnica/tree/main/src/assets/img/videos-img/start.jpg" alt="start" />
+<img src="https://github.com/TONNYSAP/Prova-Tecnica/blob/main/src/assets/img/videos-img/start.jpg" alt="start" />
 ## material didático
-<img src="https://github.com/TONNYSAP/Prova-Tecnica/tree/main/src/assets/img/videos-img/md.jpg" alt="materia" />
+<img src="https://github.com/TONNYSAP/Prova-Tecnica/blob/main/src/assets/img/videos-img/md.jpg" alt="materia" />
 ## listagem
-<img src="https://github.com/TONNYSAP/Prova-Tecnica/tree/main/src/assets/img/videos-img/list.jpg" alt="lista" />
+<img src="https://github.com/TONNYSAP/Prova-Tecnica/blob/main/src/assets/img/videos-img/list.jpg" alt="lista" />
